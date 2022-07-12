@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UDPAndroidClient</string>
+    <string name="title_activity_connect">ConnectActivity</string>
+</resources>
